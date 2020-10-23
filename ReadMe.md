@@ -1,8 +1,8 @@
 # _Calculator_
 
-#### _Calculator app, 10/19/2020_
+#### _Calculator app, 10/22/2020_
 
-#### By _**Nataliya Zhuravleva, Diego Salazar**_
+#### By _**Nataliya Zhuravleva**_
 
 ## Description
 
@@ -21,7 +21,7 @@ _No known bags_
 ## Support and contact details
 
 Nataliya Zhuravleva [natalindria@gmail.com](mailto:natalindria@gmail.com)
-Diego Salazar [salazardiego343@gmail.com](mailto:salazardiego343@gmail.com)
+
 
 ## Technologies Used
 
@@ -36,4 +36,4 @@ Diego Salazar [salazardiego343@gmail.com](mailto:salazardiego343@gmail.com)
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_Nataliya Zhuravleva, Diego Salazar_**
+Copyright (c) 2020 **_Nataliya Zhuravleva_**
